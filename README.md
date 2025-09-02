@@ -10,3 +10,6 @@
 自动清理超过指定天数的旧数据；
 网络状态监控：实时检测摄像头网络连接状态，异常时自动处理；
 资源管理：完善的资源释放机制，确保程序稳定运行。
+
+修改HKCam_multi1_SaveImagev2.py中摄像头IP和密码，然后运行：
+python HKCam_multi1_SaveImagev2.py
